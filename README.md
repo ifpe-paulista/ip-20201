@@ -1,5 +1,5 @@
-# mostra-pibex-2020
+# Projetos desenvolvidos na disciplina de Introdução a Progrmação do IFPE campus Paulista
 
-Repositório para apresentação dos resultados do programa PIBEX/IFPE 2020
+Repositório dos vídeos da turma 2020.1
 
-https://mostra-pibex.github.io/mostra-pibex-2020/
+https://ifpe-paulista.github.io/ip-20201/
